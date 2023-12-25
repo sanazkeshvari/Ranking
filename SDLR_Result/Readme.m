@@ -1,1 +1,1 @@
-The result od T_test and output of the models are here
+The result of T_test and output of the models are here
